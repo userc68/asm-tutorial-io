@@ -11,7 +11,7 @@ gcc main.o -o main -nostdlib -no-pie
 rm main.o
 ```
 ## Explanation within ASM comments:
-uncommented code can be found in main.asm file <br>
+uncommented code can be found in ncmain.asm file <br>
 main.asm:
 ```asm
 ;
